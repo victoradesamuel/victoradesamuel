@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoradesamuel
 - 👀 I’m a Junior Front-end Developer and a UI/UX Designer
-- 🌱 I’m currently learning Advanced Html, CSS, Javascript, ReactJS, Bootstrap, Git version control.
+- 🌱 I’m currently learning Javascript, ReactJS.
 - 💞️ Solving problems with software development skills is what motivates me and keeps me in constant quest for knowledge, i'm open to learning
 - 📫 How to reach me Linkedin: Victor Ade-Samuel
                      Medium: medium.com/victoradesamuel16
