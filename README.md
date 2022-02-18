@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://victoradesamuel.github.io/portfolio)
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://victoradesamuel.github.io/Portfolio)
 
 <h1 align="center">Hi 👋, I'm Victor Ade-Samuel</h1>
 <h3 align="center">A passionate Software Developer from Nigeria</h3>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactJS,NodeJS, MySQL, Ruby, Rails**
 
-- 👨‍💻 All of my projects are available at [Victor Ade-Samuel Portfolio](victoradesamuel.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [Victor Ade-Samuel Portfolio](victoradesamuel.github.io/Portfolio)
 
 - 📝 I regularly write articles on [Victor Ade-Samuel Hashnode](https://hashnode.com/@SonofZion)
 
