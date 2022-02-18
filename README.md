@@ -1,8 +1,8 @@
-[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)](https://victoradesamuel.github.io/portfolio)
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://victoradesamuel.github.io/portfolio)
 
 <h1 align="center">Hi 👋, I'm Victor Ade-Samuel</h1>
 <h3 align="center">A passionate Software Developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoradesamuel&label=Profile%20views&color=0e75b6&style=flat" alt="victoradesamuel" /> </p>
 
