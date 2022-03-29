@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Victor Ade-Samuel 👩🏾‍💻 <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<h3 align="center">A passionate Software Developer from Nigeria</h3>
+<h3 align="center">A Frontend Developer helping companies serve customers and improve customer experience through Software Applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoradesamuel&label=Profile%20views&color=0e75b6&style=flat" alt="victoradesamuel" /> </p>
